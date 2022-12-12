@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mturkes\\source\\repos\\IpadVerwaltung\\IpadVerwaltung\\IpadVerwaltung.csproj": {}
+    "C:\\BKHilden\\IPadVerwaltung\\IpadVerwaltung\\IpadVerwaltung.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mturkes\\source\\repos\\IpadVerwaltung\\IpadVerwaltung\\IpadVerwaltung.csproj": {
+    "C:\\BKHilden\\IPadVerwaltung\\IpadVerwaltung\\IpadVerwaltung.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mturkes\\source\\repos\\IpadVerwaltung\\IpadVerwaltung\\IpadVerwaltung.csproj",
+        "projectUniqueName": "C:\\BKHilden\\IPadVerwaltung\\IpadVerwaltung\\IpadVerwaltung.csproj",
         "projectName": "IpadVerwaltung",
-        "projectPath": "C:\\Users\\mturkes\\source\\repos\\IpadVerwaltung\\IpadVerwaltung\\IpadVerwaltung.csproj",
+        "projectPath": "C:\\BKHilden\\IPadVerwaltung\\IpadVerwaltung\\IpadVerwaltung.csproj",
         "packagesPath": "C:\\Users\\mturkes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mturkes\\source\\repos\\IpadVerwaltung\\IpadVerwaltung\\obj\\",
+        "outputPath": "C:\\BKHilden\\IPadVerwaltung\\IpadVerwaltung\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mturkes\\AppData\\Roaming\\NuGet\\NuGet.Config",
